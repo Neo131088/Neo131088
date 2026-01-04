@@ -1,4 +1,4 @@
-Hi there! 👋 I'm Ihor
+Hi 👋 I'm Igor
 👨‍💻 About Me
 💻 Frontend / Backend Developer
 🌱 Currently learning: React, Node.js, TypeScript
